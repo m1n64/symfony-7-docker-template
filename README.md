@@ -1,4 +1,4 @@
-# Minimal clean Docker configuration with PHP 8.1+, NGINX 1.20+, PostgreSQL 14.2+ and Symfony 7.2 for development.
+# Minimal clean Docker configuration with PHP 8.3+, NGINX 1.20+, PostgreSQL 14.2+ and Symfony 7.2 for development.
 
 - Based on Alpine Linux.
 - Xdebug and PHPUnit.
